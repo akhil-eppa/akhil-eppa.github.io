@@ -163,17 +163,10 @@ section + section {
 }
 
 .profile-avatar {
-  width: 88px;
-  height: 88px;
+  width: 120px;
+  height: 120px;
   border-radius: 50%;
-  background: var(--accent);
-  color: #fff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 1.3rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  object-fit: cover;
   margin-bottom: 16px;
 }
 
