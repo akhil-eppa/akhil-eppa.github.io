@@ -2,26 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://akhil-eppa.github.io/</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>1.0</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://akhil-eppa.github.io/cv.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://akhil-eppa.github.io/projects.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://akhil-eppa.github.io/publications.html</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://akhil-eppa.github.io/blog/</loc>
+    <lastmod>2026-10-20</lastmod>
     <priority>0.7</priority>
     <changefreq>weekly</changefreq>
   </url>
